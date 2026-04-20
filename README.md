@@ -1,6 +1,6 @@
 <!-- Animated wave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=header" />
- 
+
 <h1 align="center">
   Hey there, I'm Gabriel Hipolito
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
